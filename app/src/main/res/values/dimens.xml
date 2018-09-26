@@ -2,5 +2,5 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="margin_normal">8dp</dimen>
-    <dimen name="card_album_radius">5dp</dimen>
+    <dimen name="card_album_radius">10dp</dimen>
 </resources>

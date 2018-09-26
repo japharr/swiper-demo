@@ -13,10 +13,17 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:visibility="gone"
         app:bottom_swipe_detect="false"
         app:rotation_degrees="15.5"
         app:max_visible="5"
         tools:context=".CardSwipeActivity" />
+
+    <com.dailymotion.android.player.sdk.PlayerWebView
+        android:id="@+id/dm_player_web_view"
+        android:layout_width="match_parent"
+        android:layout_height="215dp">
+    </com.dailymotion.android.player.sdk.PlayerWebView>
 
     <!--
     <LinearLayout

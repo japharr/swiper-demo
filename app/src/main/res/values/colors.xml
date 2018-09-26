@@ -7,4 +7,7 @@
     <color name="grey">#EAEAEA</color>
     <color name="dark_grey">#333</color>
     <color name="black">#000</color>
+
+    <color name="white">#fff</color>
+    <color name="blackOverlay">#80000000</color>
 </resources>

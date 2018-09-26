@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Swiper.iml" filepath="$PROJECT_DIR$/Swiper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-trimmer/video-trimmer.iml" filepath="$PROJECT_DIR$/video-trimmer/video-trimmer.iml" />
     </modules>
   </component>
 </project>

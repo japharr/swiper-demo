@@ -11,7 +11,7 @@
     android:foreground="?android:attr/selectableItemBackground"
     card_view:cardBackgroundColor="@color/dark_grey"
     card_view:cardCornerRadius="@dimen/card_album_radius"
-    card_view:cardElevation="5.0dp">
+    card_view:cardElevation="0.0dp">
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
